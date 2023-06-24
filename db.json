@@ -1,0 +1,131 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Phone",
+      "imageUrl": "",
+      "description": "An iphone xs max.",
+      "price": "1200"
+    },
+    {
+      "id": "2",
+      "title": "Airpods",
+      "imageUrl": "",
+      "description": "Latest apple airpods.",
+      "price": "700"
+    },
+    {
+      "id": "3",
+      "title": "Charger",
+      "imageUrl": "",
+      "description": "Lightening fast adapter for your iphone.",
+      "price": "500"
+    },
+    {
+      "id": "4",
+      "title": "Apple Air Max",
+      "imageUrl": "",
+      "description": "Business laptop that suits all needs.",
+      "price": "3200"
+    },
+    {
+      "id": "5",
+      "title": "Vision Pro",
+      "imageUrl": "",
+      "description": "Virtual reality headset.",
+      "price": "3500"
+    },
+    {
+      "id": "6",
+      "title": "SSD 128gb",
+      "imageUrl": "",
+      "description": "128gb ssd for your laptop.",
+      "price": "1000"
+    },
+    {
+      "title": "nene",
+      "description": "",
+      "price": "",
+      "imageUrl": "Just a text",
+      "id": "Jd35ms_"
+    },
+    {
+      "title": "nened",
+      "description": "",
+      "price": "",
+      "imageUrl": "Just a text",
+      "id": "wM3uXQH"
+    },
+    {
+      "title": "raps",
+      "description": "",
+      "price": "",
+      "imageUrl": "Just a text",
+      "id": "Q-MRd-c"
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Chandler Bing"
+    },
+    {
+      "id": 2,
+      "name": "Monica Bing"
+    },
+    {
+      "id": 2,
+      "name": "Ross Geller"
+    }
+  ],
+  "users": [
+    {
+      "id": "chukwudubem7@gmail.com",
+      "channelId": "chidubemthedev"
+    }
+  ],
+  "channels": [
+    {
+      "id": "chidubemthedev",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "blue"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "yellow"
+    },
+    {
+      "id": 5,
+      "label": "black"
+    },
+    {
+      "id": 6,
+      "label": "white"
+    },
+    {
+      "id": 7,
+      "label": "orange"
+    },
+    {
+      "id": 8,
+      "label": "purple"
+    }
+  ]
+}
